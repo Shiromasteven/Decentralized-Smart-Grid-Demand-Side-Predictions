@@ -14,6 +14,6 @@ Data source is located in the UCI Machine learning repository [here](https://arc
 - Very little data cleaning was necessary however the features 'stab' and the target feature 'stabf' are directly related and therefor dropped 'stab'
 - For the data engineered data frame each of the three 'nodes', 'tau2, tau3, tau4' etc. was averaged and consolidated into one feature each giving purely a producer and consumer feature.
 - For the PCA Model of each version features where reduced down to only 2 to maintain variance.
-
+![Volume of Energy Consumed or Produced](Volume of Energy Consumed or Produced.png)
 
 ### Models
