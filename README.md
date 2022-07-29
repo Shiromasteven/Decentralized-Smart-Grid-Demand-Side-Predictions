@@ -32,9 +32,21 @@ Data source is located in the UCI Machine learning repository [here](https://arc
 - My final model consists of a tuned Random Forest model. My decision to use the random forest was dervied from it's ability to produce accurate results from non linearly correlated data and achieved a...
 
 -Precision of 91%
+
 -Recall of 89%
+
 -F-1 of 89%
 
+![Final Model Confusion Matrix](https://user-images.githubusercontent.com/95104650/181672223-815ead08-2d0e-4638-883a-68f8c2340e5d.png)
+
+- By having a high accuracy and low chance of false positives, the model will more accurately predict when the system is likely to fail prompting more accurate timings of energy usage and restrictions.
 
 
-### Models
+
+### Limitations and Next Steps
+
+- This model is of course limited to the synthetic nature of the data set, but it is the proof of concept that an optimized random forest model could be used in a real world test case of a decentralized power grid to provide demand side predictions of decentralized power grids.
+
+- Of course the next step would be to evaluate this sort of model on real world test cases!
+
+### Further Information
