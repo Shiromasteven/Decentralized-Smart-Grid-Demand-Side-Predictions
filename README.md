@@ -50,3 +50,6 @@ Data source is located in the UCI Machine learning repository [here](https://arc
 - Of course the next step would be to evaluate this sort of model on real world test cases!
 
 ### Further Information
+
+Feel free to contact me at 
+-Stevenpshiroma@gmail.com
